@@ -12,7 +12,8 @@ Detta repository innehåller dokumentation och stödmaterial för projektet **Ve
 - Backend: ASP.NET 8 Microservices
 - Infrastruktur: Azure Web App, SQL, Blob Storage, Key Vault, Service Bus
 
-## Skapad av
-Kevin Swärdh, som del av kursen *Molntjänster och Distribuerade System* (EC Utbildning 2025)
+## Samarbete
+Projektet och koden är utvecklade av **Kevin Swärdh** under kursen *Molntjänster och Distribuerade System* (EC Utbildning, 2025), med löpande teknisk assistans och kodförslag sammanställda tillsammans med **OpenAI ChatGPT (GPT-4o)**.
 
-Dokumentation sammanställd med hjälp av OpenAI ChatGPT.
+## Licens
+Publicerat i utbildningssyfte – användning, forking och feedback är välkommet.
